@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://es.enckhausen.org/una-construccion-con-el-adobe/",
+            "url": "https://es.enckhausen.org/una-construccion-con-el-adobe/",
+            "title": "Una Construcción Con El Adobe",
+            "summary": "Aquí hay un enlace a nuestro proyecto de construcción con el Superadobe y el Bahareque.",
+            "content_html": "<p>Aquí hay un enlace a nuestro proyecto de construcción con el <a href=\"https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/PDF/espa%C3%B1ol/Una%20Construccion%20Con%20Sacos%20De%20Tierra.pdf\">Superadobe y el Bahareque.</a><br><br></p>",
+            "author": {
+                "name": "William Enckhausen"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-19T18:45:00-06:00",
+            "date_modified": "2026-07-19T18:45:00-06:00"
+        },
+        {
             "id": "https://es.enckhausen.org/la-basura-blanca/",
             "url": "https://es.enckhausen.org/la-basura-blanca/",
             "title": "La Basura Blanca",

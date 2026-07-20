@@ -3,12 +3,32 @@
     <title>William Enckhausen - español</title>
     <link href="https://es.enckhausen.org/feed.xml" rel="self" />
     <link href="https://es.enckhausen.org" />
-    <updated>2026-07-12T10:02:40-06:00</updated>
+    <updated>2026-07-19T18:45:00-06:00</updated>
     <author>
         <name>William Enckhausen</name>
     </author>
     <id>https://es.enckhausen.org</id>
 
+    <entry>
+        <title>Una Construcción Con El Adobe</title>
+        <author>
+            <name>William Enckhausen</name>
+        </author>
+        <link href="https://es.enckhausen.org/una-construccion-con-el-adobe/"/>
+        <id>https://es.enckhausen.org/una-construccion-con-el-adobe/</id>
+
+        <updated>2026-07-19T18:45:00-06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Aquí hay un enlace a nuestro proyecto de construcción con el Superadobe y el Bahareque.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Aquí hay un enlace a nuestro proyecto de construcción con el <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/PDF/espa%C3%B1ol/Una%20Construccion%20Con%20Sacos%20De%20Tierra.pdf">Superadobe y el Bahareque.</a><br><br></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>La Basura Blanca</title>
         <author>
